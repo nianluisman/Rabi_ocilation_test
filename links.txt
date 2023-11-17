@@ -1,0 +1,1 @@
+https://denizariyan.com/interrupt-based-timer-for-atmega328p
